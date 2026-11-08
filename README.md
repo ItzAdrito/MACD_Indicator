@@ -141,4 +141,4 @@ Python | NumPy | Pandas | Matplotlib | yfinance
 
 ## Disclaimer
 
-This is an educational quantitative finance project intended to explore financial mathematics, numerical computation and historical market data analysis. It is not financial advice or a recommendation to buy or sell any financial instrument.
+This is an educational quantitative finance project intended to explore financial mathematics, numerical computation and historical market data analysis. It is NOT financial advice or a recommendation to buy or sell any financial instrument. It is NOT intended for commercial use. It is NOT intended for live trading or investment decisions.
