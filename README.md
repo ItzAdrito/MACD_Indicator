@@ -8,6 +8,7 @@ The primary objective is to understand how these indicators are constructed math
 
 The project begins with synthetic price data to understand the behaviour of the indicators under different market conditions. It then applies the same implementation to historical NIFTY 50 data to examine how the indicators behave on a real financial time series.
 
+![Nifty 50 MACD](plots/nifty50_macd.png)
 ## Objectives
 
 - Understand the mathematical foundations of exponential moving averages.
