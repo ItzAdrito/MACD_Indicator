@@ -18,6 +18,13 @@ The project begins with synthetic price data to understand the behaviour of the 
 - Visualise the indicators alongside historical price movements.
 - Compare indicator behaviour under synthetic and historical market conditions.
 
+## Disclaimer
+
+- This is an educational quantitative finance project intended to explore financial mathematics, numerical computation and historical market data analysis. 
+- It is NOT financial advice or a recommendation to buy or sell any financial instrument. 
+- It is NOT intended for commercial use. 
+- It is NOT intended for live trading or investment decisions.
+
 ## Mathematical Foundations
 
 ### 1. Exponential Moving Average (EMA)
@@ -113,7 +120,3 @@ The plots help examine the relationship between price momentum and the behaviour
 ## Technologies Used
 
 Python | NumPy | Pandas | Matplotlib | yfinance
-
-## Disclaimer
-
-This is an educational quantitative finance project intended to explore financial mathematics, numerical computation and historical market data analysis. It is NOT financial advice or a recommendation to buy or sell any financial instrument. It is NOT intended for commercial use. It is NOT intended for live trading or investment decisions.
