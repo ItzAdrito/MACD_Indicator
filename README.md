@@ -81,32 +81,6 @@ The implementation is divided into modular functions:
 
 The implementation uses an SMA-based initialisation for EMA calculations. Consequently, the initial observations are represented using NaN values until sufficient data is available.
 
-## Experiments
-
-### Experiment 1: Synthetic Price Data
-
-Synthetic price observations are used to examine the behaviour of EMA and MACD under different market conditions, including:
-
-- Sideways price movement.
-- Sustained bullish movement.
-- Bearish reversal.
-- Bullish recovery.
-- Consolidation.
-
-This experiment helps illustrate how the MACD line, signal line and histogram respond to changes in price momentum.
-
-### Experiment 2: Historical NIFTY 50 Data
-
-The same indicator implementation is applied to historical daily NIFTY 50 index data.
-
-This experiment examines:
-
-- The relationship between price movements and moving averages.
-- MACD behaviour during bullish and bearish market phases.
-- The occurrence and timing of bullish and bearish crossovers.
-- The lag between price movements and indicator signals.
-
-The purpose is to study indicator behaviour on historical data, not to establish a profitable trading strategy.
 
 ## Visualisation
 
